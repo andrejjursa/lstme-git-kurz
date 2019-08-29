@@ -5,5 +5,8 @@ int main(void) {
 	printf("Hello LSTME 2019!\n");
 	printf("Mame sta tu dobre!\n");
 
+
+	printf("Tralala\n");
+
 	return 0;
 }
